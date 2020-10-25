@@ -23,8 +23,16 @@
           "!type": "External",
           "file": [
             "forms",
-            "Form1",
-            "Form1.json"
+            "dataTable",
+            "dataTable.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "validate",
+            "validate.json"
           ]
         }
       ],
@@ -47,7 +55,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "Form1",
+      "firstform": "validate",
       "fontFamily": "system",
       "homescreenTitle": "",
       "icon": "nsb/images/192.png",
